@@ -34,7 +34,7 @@ Esse projeto se destina a ser a solução proposta para o desafio de fazer um as
 - Click no botão **código**:\
 ![Screenshot_2](.github/assets/Screenshot_3.png)
 
-- Abra o arquivo [***Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.0.json***](../Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock/Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.0.json) ou o arquivo [***Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.1.json***](../Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock/Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.1.json), copie seu conteúdo e cole na caixa de edição de código do Step Function, apague o código já existente:\
+- Abra o arquivo [***Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.0.json***](./Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.0.json) ou o arquivo [***Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.1.json***](./Assistente-de-Delivery-com-AWS-Step-Functions-e-Bedrock_v1.1.json), copie seu conteúdo e cole na caixa de edição de código do Step Function, apague o código já existente:\
 ![Screenshot_4](.github/assets/Screenshot_4.png)
 
 
